@@ -1,2 +1,2 @@
 #!/bin/zsh
-truffle-flattener contracts/BioCoin.sol > BioCoin.flatten.sol
+truffle-flattener contracts/BiotCoin.sol > BiotCoin.flatten.sol
